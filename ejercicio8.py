@@ -20,3 +20,4 @@ elif IMC >25:
     print("Debes adelgazar")
 else:
     print("Tu indice de masa corporal es bueno")
+    
